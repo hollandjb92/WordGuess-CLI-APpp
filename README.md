@@ -1,1 +1,1 @@
-# WordGuess-CLI-APpp
+# WordGuess-CLI-App
